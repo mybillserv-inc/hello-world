@@ -3,7 +3,7 @@ name: CI
 on: [push]
 
 jobs:project
-  build:mybillserv
+  build:appmodif-com
 
     runs-on: ubuntu-latest
 
