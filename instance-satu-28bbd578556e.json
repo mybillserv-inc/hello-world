@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "instance-satu",
+  "private_key_id": "28bbd578556edec43807535ed91f2b35126cd83d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbG/kp7PU7gb2J\nbj7iu03EpHwHSXuKhR1Q1hRRaRYIiSMIvYVbd0nboRGrpctPS3F7LmKAUY2Ht4hH\n1qJCnrsGeo2XWpIfj8kqdNi8E9O5u3V5cAOknGwt45NHGqOYRDhILStfh03pOsyY\n0BpV0oDbJgBcjdQ/0dnHXLRRn26y13VDkm5zaNuot5kCDt05hui3htToR4DwX0Sm\n9V5VgrdvDEqv1ICrmn4D+EKnz7EncyyZF2RHw4plrfGnzh0JzWoo4GxtTC4DTCph\n73zbmnLAgf3OEZV9ycmpQ6eCs94BOmdLRZRtJH4udgPky0D0v+n47HunylwwfHVo\nPDCPC6HDAgMBAAECggEACX4HQnhHzVOUMI5oijVrPdvRFhytn+o9XPHIMYk/hqTN\nDSv7NszdXlo3lVKvcNPA09VTxHjGAAzzA2525KI6xA7VwaVfaILcptzN8yI4sVbW\nPbXL5OC7w0n4YxmvjFIUd0cblRxX+ZKv7Bdd0GwlZAP2pRnHtPyLM6bdOo3wV0DW\n4naq+ZWlYBtNq8rHc9fwV2/NLOjk7Prd21E7kFa3rYwJSq4GR7kVMAW0KRw6a3Nt\njpUSeAtnQSEy7XXj+jFqhhf80ij2vlhD+N1PUf8JZQAvTfTwKVvugN+wup8iDwOy\nSljud7XxAgWzXtNpRXBO8MJ7cjy+xfq+I5LKcOQBdQKBgQDNCpzhxwzbkDShjin3\nq8md37HbAWQ3kyXi0hf5ND4F4dNcE5A/jJCnHC0Hm7XoP+gKDIsKSoOSvALIMmHr\n1Rk3gYtOhIA7bFVuccLKR4WredH2WyR82ktyLQ8yMliIxhA6ItkMiV5hV49KwKkC\nrxbilmOOUy/aJS+2dfEhgm2JhQKBgQDBqIRAB7eD0r299KJw8u2x7cyZ23iBHUFE\n5HCZahEZbFsVqqCN1agDmtD7llsJF64zxp/n0RnXn/AHshJwgaNBqmiIYuPnCt1I\nyc01wOlEQF0LWkXHiZEG5oALcIXTSNO7bJRVcvysNw2Yf0bX15Tl/3OGVZfsFqdr\nqTg1htj8pwKBgFgqPBMJGApBE6B0FK+eem8cBMn66zDKYPwLAqvxPsogtFVfRCNP\nOdPhVatz1OAsuoW3pwGh0LmDhl6260wQsWsglNoKN2lVx9ZZrDx2TI/TLekUf7f/\n1Xkezu3yoAcPw2J8IYA2gRKyJ7co6INy7hA4Qk6sjmLqon1+cVTLVHZRAoGBAKhg\nMWROkVOPJqQDED1uKhZ6sFrRhGuWGQqiJ/hrTSSynlsvOFs5edRwheVI7Cvyp+ai\neqOenX5ps9OtEvU48c4FMM/sU0StoIpJ0x86dFaAM6XMPkFoLW03efr4QZLbjiQ2\nGp5U1LWTREHj35+I9BApU7Nntihx5ezoe1OmxACfAoGBAKQ2WSDNovwWdMU9sB2U\nKJuy4JNd6KuLTINtma8VObSwLDzBlkE7/3fzh07GqI3ueZcvrfU/maL65/SqXge0\n++DpHuTKVHmuHd0VIxK3BaiYtgDSLfSh8E+SpA/3AiIip6a4nb/JDU61Y+dTBpzX\nhp+9EkNydu4HRwUAgFT7j87V\n-----END PRIVATE KEY-----\n",
+  "client_email": "akun-services@instance-satu.iam.gserviceaccount.com",
+  "client_id": "102094192952584903633",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akun-services%40instance-satu.iam.gserviceaccount.com"
+}
