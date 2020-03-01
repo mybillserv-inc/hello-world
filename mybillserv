@@ -3,7 +3,7 @@ name: CI
 on: [push]
 
 jobs:project
-  build:appmodif-com
+  build:hello-world
 
     runs-on: ubuntu-latest
 
